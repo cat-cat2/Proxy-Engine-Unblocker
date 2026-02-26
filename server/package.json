@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A Proxy Site For School",
+  "main": "server.js",
+  "scripts": {
+    "test": "start dev",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [
+    "proxy",
+    "search"
+  ],
+  "author": "Thecatkidx3, Ducky, Varun",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
