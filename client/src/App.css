@@ -1,6 +1,6 @@
-body {
+main {
   background-color: black;
-  font-family: sans-serif, Arial;
+  font-family: 'Share Tech', sans-serif, Arial;
   font-weight: bold;
   color: white;
 }
