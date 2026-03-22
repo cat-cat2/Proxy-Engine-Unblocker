@@ -1,4 +1,4 @@
-import { Cloak } from '../AboutBlank.ts';
+import { Cloak } from '../exports/AboutBlank.ts';
 import { Version_Label } from '../components/Version_Label.tsx';
 import { Credits_Label } from '../components/Credits_label.tsx';
 import { useState, useEffect } from 'react';
