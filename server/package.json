@@ -12,7 +12,7 @@
     "proxy",
     "search"
   ],
-  "author": "Thecatkidx3, Ducky, Varun",
+  "author": "Thecatkidx3",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.6",
