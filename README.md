@@ -1,9 +1,4 @@
 This is a proxy site for getting around school filters. To run this project on your local pc you need node_modules in the client and server directorys. To Install Do the commands in order cd server, npm i init -y, npm i express, npm i nodemon, npm i cors -d, npm run dev. Now make a new termnail. To Install Do the commands in order cd client, npm i init -y, npm i vite@latest select react and in typescript, npm i react-router-dom, npm i axios, npm start dev
 
-<<<<<<< HEAD
-===Credits===
-Thecatkidx3
-=======
 ===Credits===‎
-‎‎Thecatkidx3
->>>>>>> bd1db2485bf51c0171b14b54fa2ddd899fe13add
+Thecatkidx3
